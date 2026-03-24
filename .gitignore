@@ -1,0 +1,46 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+*.bin
+*.hex
+*.elf
+
+# Build directories
+build/
+dist/
+*.build
+
+# IDE settings
+.DS_Store
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+*~
+.gradle/
+
+# Arduino IDE specific
+__MACOSX/
+*.ino.cpp
+*.ino.d
+
+# Dependencies
+lib/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Logs
+*.log
+Arduino_Log.txt
+
+# OS specific
+Thumbs.db
+.DS_Store
