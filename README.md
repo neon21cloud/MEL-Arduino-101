@@ -67,4 +67,4 @@ Proyecto educativo - Bloque3_TPMMEE (2021-2022)
 
 ## 👨‍💻 Autor
 
-Estudiantes de Montaje y Mantenimiento
+neon21cloud
