@@ -1,4 +1,4 @@
-# Arduino IDE
+# Arduino IDE Build
 *.o
 *.a
 *.so
@@ -31,8 +31,7 @@ __MACOSX/
 *.ino.cpp
 *.ino.d
 
-# Dependencies
-lib/
+# PlatformIO (opcional)
 .pio/
 .pioenvs/
 .piolibdeps/
@@ -40,6 +39,13 @@ lib/
 # Logs
 *.log
 Arduino_Log.txt
+
+# Documentation & extras
+*.pdf
+*.jpg
+*.jpeg
+LCD.fzz
+TPMMEE*
 
 # OS specific
 Thumbs.db
